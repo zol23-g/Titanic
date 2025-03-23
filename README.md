@@ -1,5 +1,4 @@
 
-```markdown
 # Titanic EDA - Exploratory Data Analysis
 
 This project performs a basic exploratory data analysis (EDA) on the Titanic dataset using the version provided by **Seaborn**. The goal is to understand the structure, relationships, and patterns within the dataset and to prepare it for future modeling tasks such as classification.
